@@ -1,0 +1,28 @@
+body {
+    background-color: indianred;
+}
+
+#caseStudy {
+    color: red;
+}
+
+#lens {
+    width: 100;
+}
+
+#net {
+    height: 90;
+    background-color: blue;
+    color: white;
+}
+
+.testImageAndResult {
+    background-color: grey;
+    border-radius: 50px;
+    width: fit-content;
+}
+
+.img-responsive {
+    width: 1000;
+    margin-top: 50px;
+}
